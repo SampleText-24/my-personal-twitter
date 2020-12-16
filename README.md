@@ -1,1 +1,1 @@
-﻿https://my-personal-twitter.web.app тут можно потыкать
+﻿https://sampletext-twitter.web.app тут можно потыкать
